@@ -1,9 +1,9 @@
 # Investigate-FBI-Census-data
-Assessing, cleaning and analyzing FBI gun background checks from 1998-2017, as well as data points from the US Census from 2011-2016.
+   Assessing, cleaning and analyzing FBI gun background checks from 1998-2017, as well as data points from the US Census from 2011-2016. gun_data.xlsx and US_Census_Data.csv are the two datasets included in the repository that I worked with. fbi_census_merge.html/ipynb are the final assessed, cleaned, and analyzed dataset. If you would like to skip directly to visualizations, they are at the bottom half of fbi_census_merge.ipynb. Below is the introduction you will also find the fbi_census_merge.ipynb, I figured I'd put it here so that everyone knows what they're reading before hand. This project was very difficult and a **mountain** of work but I'd like to expand on it later, I hope you enjoy!
 
 
 
-For this project I wanted to investigate the trends in gun permits that were issued from 1998-2017. The provided materials were FBI background check data from 1998-2017 as well as US census information from 2010-2016. Below are the questions I'd like to answer. gun_data.xlsx and US_Census_Data.csv are the two datasets included in the repository that I worked with. fbi_census_merge.html/ipynb are the final assessed, cleaned, and analyzed dataset. If you would like to skip directly to visualizations, they are at the bottom half of fbi_census_merge.ipynb. Below is the introduction you will also find the fbi_census_merge.ipynb, I figured I'd put it here so that everyone knows what they're reading before hand. This project was very difficult and a mountain of work but I'd like to expand on it later, I hope you enjoy!
+For this project I wanted to investigate the trends in gun permits that were issued from 1998-2017. The provided materials were FBI background check data from 1998-2017 as well as US census information from 2010-2016. Below are the questions I'd like to answer. 
 
 1. From the gun data that was provided, what was the overall trend in gun permits issued from 1998-2017?
 
