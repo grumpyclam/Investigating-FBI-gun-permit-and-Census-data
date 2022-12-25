@@ -1,5 +1,7 @@
 # Investigate-FBI-Census-data
-   Assessing, cleaning and analyzing FBI gun background checks from 1998-2017, as well as data points from the US Census from 2011-2016. gun_data.xlsx and US_Census_Data.csv are the two datasets included in the repository that I worked with. fbi_census_merge.html/ipynb are the final assessed, cleaned, and analyzed dataset. If you would like to skip directly to visualizations, they are at the bottom half of fbi_census_merge.ipynb. Below is the introduction you will also find the fbi_census_merge.ipynb, I figured I'd put it here so that everyone knows what they're reading before hand. This project was very difficult and a **mountain** of work but I'd like to expand on it later, I hope you enjoy!
+Assessing, cleaning and analyzing FBI gun background checks from 1998-2017, as well as data points from the US Census from 2011-2016. gun_data.xlsx and US_Census_Data.csv are the two datasets included in the repository that I worked with. 
+fbi_census_merge.html/ipynb are the final assessed, cleaned, and analyzed dataset. If you would like to skip directly to visualizations, they are at the bottom half of fbi_census_merge.ipynb. Below is the introduction you will also find the fbi_census_merge.ipynb, I figured I'd put it here so that everyone knows what they're reading before hand. 
+This project was very difficult and a **mountain** of work but I'd like to expand on it later, I hope you enjoy!
 
 
 
@@ -130,17 +132,17 @@ This data set is supplemental to the above gun_data_csv. It is census data that 
 **FIPS Code**
 For the column, "Fact notes", there are letters that correspond to denote certain meanings in each row. They are listed below.
 
-**(a)** Includes persons reporting only one race.
-**(b)** Hispanics may be of any race, so also are included in applicable race categories
-**(c)** Economic Census - Puerto Rico data are not comparable to U.S. Economic Census data
+- **(a)** Includes persons reporting only one race.
+- **(b)** Hispanics may be of any race, so also are included in applicable race categories
+- **(c)** Economic Census - Puerto Rico data are not comparable to U.S. Economic Census data
 
 In each state column where there is no value, certain letters are in place instead of a value. They are listed below.
 
-**-** == Either no or too few sample observations were available to compute an estimate, or a ratio of medians cannot be calculated because one or both of the median estimates falls in the lowest or upper interval of an open ended distribution.
-**D** == Suppressed to avoid disclosure of confidential information.
-**F** == Fewer than 25 firms.
-**FN** == Footnote on this item in place of data.
-**NA** == Not available.
-**S** == Suppressed; does not meet publication standards.
-**X** == Not applicable.
-**Z** == Value greater than zero but less than half unit of measure shown.
+- **-** == Either no or too few sample observations were available to compute an estimate, or a ratio of medians cannot be calculated because one or both of the median estimates falls in the lowest or upper interval of an open ended distribution.
+- **D** == Suppressed to avoid disclosure of confidential information.
+- **F** == Fewer than 25 firms.
+- **FN** == Footnote on this item in place of data.
+- **NA** == Not available.
+- **S** == Suppressed; does not meet publication standards.
+- **X** == Not applicable.
+- **Z** == Value greater than zero but less than half unit of measure shown.
