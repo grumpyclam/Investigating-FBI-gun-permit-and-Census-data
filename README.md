@@ -3,7 +3,7 @@
 > 
 >fbi_census_merge.html/ipynb are the final assessed, cleaned, and analyzed dataset. If you would like to skip directly to visualizations, they are at the bottom half of fbi_census_merge.ipynb. Below is the introduction you will also find the fbi_census_merge.ipynb, I figured I'd put it here so that everyone knows what they're reading before hand. 
 >
->This project was very difficult and a **mountain** of work but I'd like to expand on it later, I hope you enjoy!
+>This project is one of my favorite projects that I've worked on and hope to eventually expand on it, I hope you enjoy!
 
 
 
